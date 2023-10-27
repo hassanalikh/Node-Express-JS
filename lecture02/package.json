@@ -1,0 +1,13 @@
+{
+  "name": "lecture02",
+  "version": "1.0.0",
+  "description": "E-commerce web-app for abc.company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Hassan Ali Khan",
+  "license": "ISC"
+}
